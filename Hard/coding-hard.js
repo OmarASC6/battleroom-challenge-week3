@@ -25,6 +25,27 @@ dime: 10 cents / $0.10
 nickel: 5 cents / $0.05
 penny: 1 cent / $0.01
 */
+
+function change(){
+
+    // let quarter = 0.25
+    // let dime = 0.10 
+    // let nickel = 0.05
+    // let penny = 0.01
+    // let money = [quarter,dime,nickel,penny]
+    // let changeEnough= [2*quarter,2*dime,2*nickel,2*penny]
+
+    changeEnough[0] = 0.25
+    changeEnough[1] = 0.10
+    changeEnough[2] = 0.05
+    changeEnough[3] = 0.01
+
+    let Sum = [changeEnough[0] + changeEnough[1] + changeEnough[2] + changeEnough[3]]
+
+    for(sum === 12){
+        
+    }
+        }
 //===============================================
 
 // Remove Duplicates

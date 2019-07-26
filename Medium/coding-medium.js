@@ -18,6 +18,18 @@ minMax([1]) ➞ [1, 1]
 Notes
 All test arrays will have at least one element and are valid.
 */
+
+
+
+
+
+
+
+
+
+
+
+
 //===============================================
 
 // Secret Society
@@ -31,6 +43,17 @@ societyName(["Phoebe", "Chandler", "Rachel", "Ross", "Monica", "Joey"]) ➞ "CJM
 Notes
 The secret society's name should be entirely uppercased.
 */
+
+
+ const names =["Jonathan","Omar","Leo","Aki"];
+
+ return names.indexOf(0);
+ 
+ console.log (societyName);
+
+
+ 
+
 //===============================================
 
 //isPalindrome
