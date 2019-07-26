@@ -47,7 +47,7 @@ The secret society's name should be entirely uppercased.
 
  const names =["Jonathan","Omar","Leo","Aki"];
 
- return names.indexOf(0);
+ return names.indexOf(0,0);
  
  console.log (societyName);
 
