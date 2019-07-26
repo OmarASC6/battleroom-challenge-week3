@@ -10,7 +10,7 @@ return answer;
 }
 
 
-NumAddInt(4);
+console.log(NumAddInt(0));
 
 
 

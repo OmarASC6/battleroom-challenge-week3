@@ -40,10 +40,10 @@ function change(){
     changeEnough[2] = 0.05
     changeEnough[3] = 0.01
 
-    let Sum = [changeEnough[0] + changeEnough[1] + changeEnough[2] + changeEnough[3]]
+    let Sum = ['changeEnough[0]' + 'changeEnough[1]' + 'changeEnough[2]' + 'changeEnough[3]']
 
-    for(sum === 12){
-        
+    for(Sum === 12){
+        console.log('you hv enough money')
     }
         }
 //===============================================

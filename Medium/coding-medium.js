@@ -45,11 +45,11 @@ The secret society's name should be entirely uppercased.
 */
 
 
- const names =["Jonathan","Omar","Leo","Aki"];
+ let names = "Jonathan,Omar,Leo,Aki"
 
- return names.indexOf(0,0);
+ let name = str.substring(0,9,14,18);
  
- console.log (societyName);
+ console.log (name);
 
 
  
